@@ -1,0 +1,24 @@
+What is your experience with backend technologies, especially Node.js?
+- I've done a simple Rest API project by using ASP.Net and MS SQL one time. I'm new to Node.js.
+
+If you used Node.js in your previous projects, which frameworks did you use with it?
+- I haven't used Node.js before.
+
+What is Node.js event loop and advantages of it?
+- Event loop is an infinite loop that waits for tasks, runs them, and sleeps until a new task arrives.
+  It allows Node.js to perform non-blocking I/O operations. It requires less resource than languages
+  that works on multi threads and that makes it more performant for some cases.
+
+Are you familiar with AWS technologies? If yes, can you give your examples of your experience?
+- I'm not familiar with AWS technologies.
+
+Do you have any open source contribution?
+- I don't have any open source contribution.
+
+Now think of a case where this backend is connected to a frontend application.
+ * What can be done to make image upload faster?
+ * What can be done to make receiving images faster?
+You can suggest tools and techniques for both backend & frontend side.
+- Resizing images to optimal size.
+- Compressing images.
+
